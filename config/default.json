@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "mongoUri": "mongodb://localhost",
+    "jwtSecret": "someSecretKey",
+    "baseUrl": "http://93.95.184.110:5000"
+}
